@@ -1,0 +1,3 @@
+certifi==2018.4.16
+lxml==4.2.2
+wincertstore==0.2
